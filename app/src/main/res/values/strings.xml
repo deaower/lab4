@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="artist_name">Исполнитель</string>
+    <string name="track_title">Название трека</string>
+    <string name="time_added">Время добавления</string>
+    <string name="track_list_title">Список проигрываемых песен</string>
+</resources>
