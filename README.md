@@ -48,7 +48,8 @@ private boolean isOnline() {
 }
 ```
 2) Хранение данных в локальной базе
- // Инициализация RecyclerView и адаптера
+``` java
+// Инициализация RecyclerView и адаптера
         RecyclerView recyclerView = findViewById(R.id.recyclerViewTracks);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         trackAdapter = new TrackAdapter();
